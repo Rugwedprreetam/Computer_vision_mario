@@ -1,0 +1,6 @@
+mario_link---https://supermarioplay.com/
+teachable machine --  https://teachablemachine.withgoogle.com/
+
+color dictation -- https://github.com/Aviral09/SteeringWheel
+
+gesture reconination -- https://www.youtube.com/watch?v=wa2ARoUUdU8
